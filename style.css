@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-  .inline-300 {
+.inline-300 {
     inline-size: 300px;
   }
 
